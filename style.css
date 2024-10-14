@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: #baddfa;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 100;
+    width: 60%;
+   
+}
+
+textarea {
+    display: flex;
+    width: 60%;
+    
+}
+
+a {
+    padding: 10px;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+
+a:hover {
+    background-color: #000;
+    color: #fff;
+}
